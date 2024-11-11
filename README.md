@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# ChatSphere
+ChatSphere Mobile App.
 
 # Features
 * Share Projects
