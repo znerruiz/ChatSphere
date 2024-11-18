@@ -28,4 +28,8 @@ ChatSphere Mobile App.
 <img src="assets/images/screenshot/signin.png">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/screenshot/tabs.png">
+<img src="assets/images/screenshot/tab1.png">
+<img src="assets/images/screenshot/tabs2.png">
+<img src="assets/images/screenshot/tabs3.png">
+<img src="assets/images/screenshot/tabs4.png">
