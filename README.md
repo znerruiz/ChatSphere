@@ -36,4 +36,4 @@ ChatSphere Mobile App.
 
 # Walkthrough
 
-[ChatSphere App WalkThrough] (https://youtu.be/8_Y3dASA2qQ?si=WyvY1psiRnBFw86v)
+[ChatSphere App WalkThrough](https://youtu.be/8_Y3dASA2qQ?si=WyvY1psiRnBFw86v)
