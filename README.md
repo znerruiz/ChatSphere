@@ -25,7 +25,7 @@ ChatSphere Mobile App.
 <img src="assets/images/screenshot/signup.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/signin.png">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
